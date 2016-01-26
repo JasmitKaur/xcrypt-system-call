@@ -145,3 +145,5 @@ REFERENCES:
 	http://lxr.fsl.cs.sunysb.edu/linux/source/include/linux/crypto.h#L2134
 	http://lxr.fsl.cs.sunysb.edu/linux/source/fs/ecryptfs/crypto.c#L87
 6. Prof. Erez Zadok's class notes
+
+PS: Please send me an email at jasmit.saluja@stonybrook.edu for code.
